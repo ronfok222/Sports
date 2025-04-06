@@ -315,3 +315,5 @@ http://iptv.am000.tv:8000/live/add17/add17/608.ts
 http://iptv.am000.tv:8000/live/add17/add17/609.ts
 #EXTINF:-1,-6
 http://iptv.am000.tv:8000/live/add17/add17/610.ts
+#EXTINF:-1,-7
+http://iptv.am000.tv:8000/live/add17/add17/611.ts
